@@ -1,0 +1,38 @@
+{
+  "name": "node-webkit_stu",
+  "version": "1.0.0",
+  "description": "node webkit demo",
+  "main": "index.html",
+  "window":{
+    "title": "nw-quick-start-window-demo",
+    "toolbar": false,
+    "frame": true,
+    "show_in_taskbar":true,
+    "width": 800,
+    "height": 500,
+    "position": "center",
+    "icon":"./imgs/logo.png",
+    "always-on-top":true,
+    "show_in_taskbar":false
+  },
+  "webkit": {
+         "page-cache":false
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yichengjie/node-webkit_stu.git"
+  },
+  "keywords": [
+    "node",
+    "webkit"
+  ],
+  "author": "yicj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yichengjie/node-webkit_stu/issues"
+  },
+  "homepage": "https://github.com/yichengjie/node-webkit_stu#readme"
+}

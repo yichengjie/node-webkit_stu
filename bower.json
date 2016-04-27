@@ -1,0 +1,24 @@
+{
+  "name": "node-webkit_stu",
+  "description": "node webkit demo",
+  "main": "http://localhost:8080/ocgui",
+  "authors": [
+    "yicj"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "node",
+    "webkit"
+  ],
+  "homepage": "https://github.com/yichengjie/node-webkit_stu",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
